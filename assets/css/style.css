@@ -331,7 +331,7 @@ header
 }
 
 .header-area {
-  background-image: url(/images/Page.png);
+  background-image: url(../images/Page.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -778,7 +778,7 @@ section.main-banner {
 
 /* .main-banner .right-image:before {
   position: absolute;
-  background-image: url(/images/shaf-transformed.png);
+  background-image: url(../images//shaf-transformed.png);
   width: 378px;
   height: 378px;
   content: '';
@@ -790,7 +790,7 @@ section.main-banner {
 
 .main-banner .right-image::after {
   position: absolute;
-  background-image: url(/images/shaf-transformed.png);
+  background-image: url(../images//shaf-transformed.png);
   width: 378px;
   height: 378px;
   content: '';
@@ -802,7 +802,7 @@ section.main-banner {
 
 .main-banner .header-text::after {
   position: absolute;
-  background-image: url(/images/shaf-transformed.png);
+  background-image: url(../images//shaf-transformed.png);
   width: 214px;
   height: 429px;
   content: '';
@@ -912,7 +912,7 @@ section.our-courses .section-heading p {
 section.our-courses:before {
   position: absolute;
   content: '';
-  background-image: url(/images/shaf-transformed.png);
+  background-image: url(../images//shaf-transformed.png);
   left: 45px;
   top: -140px;
   width: 291px;
@@ -923,7 +923,7 @@ section.our-courses:before {
 section.our-courses:after {
   position: absolute;
   content: '';
-  background-image: url(/images/shaf-transformed.png);
+  background-image: url(../images//shaf-transformed.png);
   right: 45px;
   top: -140px;
   width: 291px;
@@ -1067,7 +1067,7 @@ cta
 */
 
 section.simple-cta {
-  background-image: url(/images/green.png);
+  background-image: url(../images//green.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1077,7 +1077,7 @@ section.simple-cta {
 }
 
 section.simple-cta {
-  background-image: url(/images/green.png);
+  background-image: url(../images//green.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1124,7 +1124,7 @@ section.testimonials {
 section.testimonials::after {
   position: absolute;
   content: '';
-  background-image: url(/images/shaf-transformed.png);
+  background-image: url(../images//shaf-transformed.png);
   background-repeat: no-repeat;
   /* left: 0px; */
   top: -10px;
@@ -1139,7 +1139,7 @@ section.testimonials::after {
 /* section.testimonials:after {
   position: absolute;
   content: '';
-  background-image: url(/images/Seamless-Green-Dot-Pattern-Graphics-1.jpg);
+  background-image: url(../images//Seamless-Green-Dot-Pattern-Graphics-1.jpg);
   right: 0px;
   bottom: -140px;
   width: 632px;
@@ -1213,7 +1213,7 @@ contact us
 */
 
 section.contact-us {
-  background-image: url(/images/download1.png);
+  background-image: url(../images//download1.png);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1478,7 +1478,7 @@ section.our-team .section-heading p {
 section.our-team:before {
   position: absolute;
   content: '';
-  background-image: url(/images/shaf-transformed.png);
+  background-image: url(../images//shaf-transformed.png);
   left: 45px;
   top: -140px;
   width: 291px;
@@ -1489,7 +1489,7 @@ section.our-team:before {
 section.our-team:after {
   position: absolute;
   content: '';
-  background-image: url(/images/shaf-transformed.png);
+  background-image: url(../images//shaf-transformed.png);
   right: 45px;
   top: -140px;
   width: 291px;
@@ -1728,7 +1728,7 @@ section.featured-product:before {
 section.featured-product:after {
   position: absolute;
   content: '';
-  background-image: url(../images/testimonials-right-dec.png);
+  background-image: url(.../images/testimonials-right-dec.png);
   right: 0px;
   bottom: -140px;
   width: 632px;
